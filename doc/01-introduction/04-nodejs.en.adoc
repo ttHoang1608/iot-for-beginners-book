@@ -1,23 +1,23 @@
 == Node.js
 
-Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine for Chrome. Node.js allows execution of JavaScript code on server-side, accesses system resources and runs most of OS task using JavaScript and C++ linking.
+Node.js® is a JavaScript runtime environment built on Chrome's V8 JavaScript engine for Chrome. Node.js allows execution of JavaScript code on server-side, accesses system resources and runs most of OS task using JavaScript and C++ linking.
 
-Lots of companies nowsaday implement Node.js in their production system (e.g Paypal). Node.js-based microservices are also deployed in many leading tech companies.
+Lots of companies nowadays implement Node.js in their production system (e.g Paypal). Node.js-based microservices are also deployed in many leading tech companies.
 
-Cloud platforms of numerous companies support executing Node.js (e.g. Amazon Lambda, Google Script, IBM Blumix, Microsoft Azure)
+Cloud platforms of numerous companies also support executing Node.js (e.g. Amazon Lambda, Google Script, IBM Blumix, Microsoft Azure)
 
-JavaScript is continuously improved with the latest version Ecmascript 6 (ES5, ES2015) and at an astouding pace. It comes with many benefits such as accessibility, simplicity, OOP, etc.
+JavaScript is continuously improved with the latest version being Ecmascript 6 (ES5, ES2015) and at an astouding pace. It comes with many benefits such as accessibility, simplicity, OOP, etc.
 
-Another reason for Node.js popularity is that most Web and Mobile developers already know JavaScript, now Node.js enables them to deploy applications on server-side without using another lanugage (historically Java, PHP, etc.)
+Another reason for Node.js popularity is that most Web and Mobile developers already know JavaScript, now Node.js enables them to deploy applications on server-side without relying on another lanugage (historically these were Java, PHP, etc.)
 
 === Why we use Node.js in this book
 
-A full-fledged Internet of Things is undoubtedly complicated: devices, server processing, database, analysis system, data reporting, artificial intelligence. A Google Iot Core diagram
+A full-fledged Internet of Things application is undoubtedly complicated: devices, server processing, database, analysis system, data reporting, artificial intelligence. For instance, a Google Iot Core diagram
 
 .Google IoT Core Diagram
 image::01-intro/benefits-diagram-2x.png[width=500, align="center"]
 
-`Server` is a crucial part in an IoT system. With all its merits, Node.js is exellent for server-side development in IoT. Besides, Node.js is supported by an active community, finding a suitable package is efforless, which in turn saves lots of time.
+`Server` is a crucial part in any IoT system. With all its merits, Node.js is exellent for server-side development in IoT. Besides, Node.js is supported by an active community; finding a suitable package is efforless, which in turn saves lots of time.
 
 === Does this book teach Node.js ?
 
@@ -27,7 +27,7 @@ Regrettably **No**, but don't feel disappointed, Node.js applications in this bo
 
 We have Arduino IDE for programming ESP8266, but you still need another text editor for Node.js. Aside from Sublime Text, you might prefer others such as `Atom` or `Visual Code`; however, Notepad is not recommended.
 
-Sublime Text is among developers' first choice due to many reasons with speed is a major factor, sometimes considered to be the fastest. Also it's free (it frequently reminds you of purchase, which many developers find content with)
+Sublime Text is among developers' first choice due to many reasons with speed being a major factor, sometimes considered to be the fastest. Also it's free (it frequently reminds you of purchase, which many developers find content with)
 
 .Sublime Text
 image::01-intro/sublime.png[Sublime Text, align="center", width=600]
